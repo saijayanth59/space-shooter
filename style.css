@@ -1,0 +1,15 @@
+body{
+    margin : 0;
+    overflow : hidden;
+}
+
+p{
+    position : absolute;
+    z-index : 10;
+    color : white;
+    left : 10px;
+    top : 10px;
+    margin : 0;
+    font-family: sans-serif;
+    font-size : 20px
+}
